@@ -1,0 +1,10 @@
+#server:
+#  port: 7879
+#
+#spring:
+#  application:
+#    name: user-service
+#
+#eureka:
+#  instance:
+#    hostname: localhost
